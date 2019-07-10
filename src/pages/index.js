@@ -61,6 +61,8 @@ kennis in een eigenwijze vorm gegoten.</p>
             Contact
           </Button>
         </Link>
+   <br/>
+  <br/>
   <p> Wij bieden autocue training, coaching en begeleiden sprekers in het openbaar</p>
       </Hero>
       <Content>

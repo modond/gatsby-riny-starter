@@ -51,8 +51,8 @@ const IndexPage = ({
       <Hero>
         <h1>Verbeter je presentatie</h1>
         <p>
-          Na tientallen jaren gewerkt te hebben met diverse presentatoren, artiesten, presidenten, ministers,
-          producenten en eindredacteuren heb ik mijn opgedane kennis in een eigenwijze vorm gegoten. Waarmee ik jouw presentatie sterker maak!
+        Na tientallen jaren gewerkt te hebben met diverse presentatoren, artiesten, presidenten, ministers,
+          producenten en eindredacteuren heb ik mijn opgedane kennis in een eigenwijze vorm gegoten. Waarmee ik jouw presentatie sterker maak! 
         </p>
 <a href="tel:0031653960521">
           <Button big>
@@ -66,7 +66,7 @@ const IndexPage = ({
   <br/>
    <br/>
    <br/>
-  <p> Wij bieden autocue training, coaching en begeleiden sprekers in het openbaar</p>
+  <p> Wij bieden autocue, autocue training, coaching en begeleiden sprekers in het openbaar. </p>
       </Hero>
     </Wrapper>
   </Layout>

@@ -50,7 +50,9 @@ const IndexPage = ({
     <Wrapper>
       <Hero>
         <h1>Verbeter je presentatie</h1>
-        <p>Wij bieden autocue training en we coachen en begeleiden sprekers bij hun presentaties </p>
+        <p>Na tientallen jaren gewerkt te hebben met diverse presentatoren, artiesten,
+CEO, ministers, producenten en eindredacteuren heb ik mijn opgedane
+kennis in een eigenwijze vorm gegoten.</p>
         <Link to="/contact">
           <Button big>
             <svg width="1792" height="1792" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg">
@@ -59,6 +61,7 @@ const IndexPage = ({
             Contact
           </Button>
         </Link>
+  <p> Wij bieden autocue training, coaching en begeleiden sprekers in het openbaar</p>
       </Hero>
       <Content>
         <SectionTitle>Latest stories</SectionTitle>

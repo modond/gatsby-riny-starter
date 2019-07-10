@@ -51,7 +51,7 @@ const IndexPage = ({
       <Hero>
         <h1>Verbeter je presentatie</h1>
         <p>Na tientallen jaren gewerkt te hebben met diverse presentatoren, artiesten,
-CEO, ministers, producenten en eindredacteuren heb ik mijn opgedane
+presidenten, ministers, producenten en eindredacteuren heb ik mijn opgedane
 kennis in een eigenwijze vorm gegoten.</p>
         <Link to="tel:+31653960521">bel ons direct</a>>
           <Button big>

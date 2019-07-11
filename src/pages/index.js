@@ -51,7 +51,7 @@ const IndexPage = ({
       <Hero>
         <h1>Verbeter je presentatie</h1>
         <p>
-        Na tientallen jaren gewerkt te hebben met diverse presentatoren, artiesten, presidenten, ministers,
+        Na tientallen jaren gewerkt te hebben met diverse presentatoren, artiesten, ministers,
           producenten en eindredacteuren heb ik mijn opgedane kennis in een eigenwijze vorm gegoten. Waarmee ik jouw presentatie sterker maak! 
         </p>
 <a href="tel:0031653960521">
@@ -59,14 +59,14 @@ const IndexPage = ({
           <svg class="svg-icon" viewBox="0 0 20 20">
 							<path d="M14.911,1.295H5.09c-0.737,0-1.339,0.603-1.339,1.339v14.733c0,0.736,0.603,1.338,1.339,1.338h9.821c0.737,0,1.339-0.602,1.339-1.338V2.634C16.25,1.898,15.648,1.295,14.911,1.295 M15.357,17.367c0,0.24-0.205,0.445-0.446,0.445H5.09c-0.241,0-0.446-0.205-0.446-0.445v-0.893h10.714V17.367z M15.357,15.58H4.644V4.42h10.714V15.58z M15.357,3.527H4.644V2.634c0-0.241,0.205-0.446,0.446-0.446h9.821c0.241,0,0.446,0.206,0.446,0.446V3.527z" />
 						</svg>
-            Bel direct
+            Bel TELECUE
           </Button>
         </a>
    <br/>
   <br/>
    <br/>
    <br/>
-  <p> Wij bieden autocue, autocue training, coaching en begeleiden sprekers in het openbaar. </p>
+  <p> En natuurlijk blijven wij de hoogste kwaliteit leveren bij al onze Autocue toepassingen. Voor TV, congres en concerten.</p>
       </Hero>
     </Wrapper>
   </Layout>
